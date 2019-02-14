@@ -1,0 +1,4 @@
+{
+    "AppSyncApiName": "checkimport",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST"
+}
